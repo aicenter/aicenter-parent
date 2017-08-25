@@ -147,6 +147,11 @@
                 <artifactId>guava</artifactId>
                 <version>22.0</version>
             </dependency>
+            <dependency>
+                <groupId>log4j</groupId>
+                <artifactId>log4j</artifactId>
+                <version>1.2.17</version>
+            </dependency>
             
             <dependency>
                 <groupId>ninja.fido.config</groupId>
@@ -157,6 +162,15 @@
     </dependencyManagement>
     
     <repositories>
+        <repository>
+            <snapshots>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+            <releases />
+            <id>atg-repo</id>
+            <name>atg-repo</name>
+            <url>http://jones.felk.cvut.cz/artifactory/repo</url>
+        </repository>
         <repository>
             <id>ossrhs</id>
             <name>Maven central snapshot repository</name>
