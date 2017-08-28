@@ -128,8 +128,6 @@
                 <version>1.7-SNAPSHOT</version>
             </dependency>
             
-            <!--other aic projects-->
-            
             <!--other projects-->
             <dependency>
                 <groupId>junit</groupId>
@@ -162,7 +160,21 @@
                 <artifactId>log4j</artifactId>
                 <version>1.2.17</version>
             </dependency>
-            
+            <dependency>
+                <groupId>com.google.inject</groupId>
+                <artifactId>guice</artifactId>
+                <version>4.1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.inject.extensions</groupId>
+                <artifactId>guice-assistedinject</artifactId>
+                <version>4.1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>java3d</groupId>
+                <artifactId>vecmath</artifactId>
+                <version>1.5.2</version>
+            </dependency>
             <dependency>
                 <groupId>ninja.fido.config</groupId>
                 <artifactId>core</artifactId>
