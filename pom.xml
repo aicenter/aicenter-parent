@@ -160,12 +160,12 @@
 			<dependency>
 				<groupId>com.google.guava</groupId>
 				<artifactId>guava</artifactId>
-				<version>22.0</version>
+				<version>27.1-jre</version>
 			</dependency>
 			<dependency>
 				<groupId>org.slf4j</groupId>
 				<artifactId>slf4j-api</artifactId>
-				<version>1.7.25</version>
+				<version>1.7.26</version>
 			</dependency>
 			<!--log4j is deprecated - replaced by slf4j-->
 			<dependency>
@@ -176,22 +176,22 @@
 			<dependency>
 				<groupId>com.google.inject</groupId>
 				<artifactId>guice</artifactId>
-				<version>4.1.0</version>
+				<version>4.2.2</version>
 			</dependency>
 			<dependency>
 				<groupId>com.google.inject.extensions</groupId>
 				<artifactId>guice-assistedinject</artifactId>
-				<version>4.1.0</version>
-			</dependency>
-			<dependency>
-				<groupId>java3d</groupId>
-				<artifactId>vecmath</artifactId>
-				<version>1.5.2</version>
+				<version>4.2.2</version>
 			</dependency>
 			<dependency>
 				<groupId>ninja.fido.config</groupId>
 				<artifactId>core</artifactId>
 				<version>1.0</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.vecmath</groupId>
+				<artifactId>vecmath</artifactId>
+				<version>1.5.2</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
