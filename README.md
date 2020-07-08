@@ -1,2 +1,2 @@
 # aicenter-parent
-Parent pom for most of the AIC projects
+Parent pom for the Smart Urban Mobility projects
