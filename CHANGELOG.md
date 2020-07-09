@@ -1,4 +1,4 @@
-# 2.1.0
+# 3.0.0
 
 ## Fixed
 - New Geographtools version with updated geotools maven repository
