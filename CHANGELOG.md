@@ -1,3 +1,7 @@
+# 4.0.0
+## Changed
+- Alite version raised
+
 # 3.0.0
 
 ## Fixed

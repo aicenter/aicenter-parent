@@ -122,7 +122,7 @@
 			<dependency>
 				<groupId>cz.cvut.fel.aic</groupId>
 				<artifactId>alite</artifactId>
-				<version>2.1.0</version>
+				<version>2.1.1-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>cz.cvut.fel.aic</groupId>
