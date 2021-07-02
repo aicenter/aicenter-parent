@@ -1,3 +1,9 @@
+# 4.0.0
+## Changed
+- Alite version raised to 2.1.1
+- Jackson version raised to 2.12.3
+- Guice version raised to 5.0.1
+
 # 3.0.0
 
 ## Fixed
